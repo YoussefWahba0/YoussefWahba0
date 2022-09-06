@@ -2,7 +2,7 @@
 
 Hey there, I'm Youssef, a 19 year old software developer from the Egypt. I love making Discord bots with JavaScript, solving problems with Typescript and java, whilst sometimes bit of web development.
 
----
+# Statistics
 
 &nbsp;
 <p align="center">
@@ -18,5 +18,7 @@ Hey there, I'm Youssef, a 19 year old software developer from the Egypt. I love 
    <a href="https://github.com/YoussefWahba0"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YoussefWahba0&bg_color=0D1117&color=ffffff&line=00ff99&point=ffffff&area=true&hide_border=true" />
     </a>
 </p>
+
+---
 
 ![Snake animation](https://github.com/YoussefWahba0/YoussefWahba0/blob/output/github-contribution-grid-snake.svg)
