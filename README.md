@@ -12,5 +12,8 @@ Hey there, I'm Youssef, a 19 year old software developer from the UK. I love mak
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefWahba0&layout=compact&langs_count=7&theme=dark"/>
 
+![Snake animation](https://github.com/YoussefWahba0/YoussefWahba0/blob/output/github-contribution-grid-snake.svg)
+
 </div>
+
 
