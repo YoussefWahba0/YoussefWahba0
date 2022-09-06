@@ -1,6 +1,6 @@
 # Youssef Gamal Wahba 
 
-Hey there, I'm Youssef, a 19 year old software developer from the Egypt. I love making Discord bots with Python, solving problems with Typescript and java, and contributing to other OSS projects whilst sometimes bearing a bit of web development.
+Hey there, I'm Youssef, a 19 year old software developer from the Egypt. I love making Discord bots with JavaScript, solving problems with Typescript and java, and contributing to other OSS projects whilst sometimes bearing a bit of web development.
 
 ---
 
