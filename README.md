@@ -3,7 +3,6 @@
 Hey there, I'm Youssef, a 19 year old software developer from the UK. I love making Discord bots with Python, solving problems with Typescript and java, and contributing to other OSS projects whilst sometimes bearing a bit of web development.
 
 ---
----
 
 <div align="center">
 
