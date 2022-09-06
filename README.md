@@ -17,3 +17,4 @@ Hey there, I'm Youssef, a 19 year old software developer from the Egypt. I love 
 </div>
 
 
+Hey there, I'm Youssef, a 19 year old software developer from the Egypt. I love making Discord bots with JavaScript, solving problems with Typescript and java, whilst sometimes bit of web development.
