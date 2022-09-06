@@ -4,9 +4,7 @@ Hey there, I'm Youssef, a 19 year old software developer from the UK. I love mak
 
 ---
 
-## Tools I use / have used
-
-### Programming Languages
+## Programming Languages
 
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white)
@@ -71,3 +69,4 @@ Hey there, I'm Youssef, a 19 year old software developer from the UK. I love mak
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white)
 
 ---
+
